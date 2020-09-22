@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* I like learning new things
+* I enjoy coding
+* I like playing table tennis
+ 
